@@ -1,6 +1,6 @@
 # Move.it
 
-<img src="./screenshot.png" alt="Screenshot" />
+<img src="screenshot.png" alt="Screenshot" />
 
 ## Projeto
 - Move.it é o app para quem mexe muito no computador, que incluir o desafios para alcançar um número de xp para alcançar de level
