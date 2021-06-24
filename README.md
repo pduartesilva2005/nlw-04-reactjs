@@ -13,7 +13,7 @@
 
 ```
   - Clonando o Repositório
-  git clone https://github.com/pedroduarte2005/nlw4-react.git
+  git clone https://github.com/pedroduarte2005/nlw-04-reactjs.git
 
   - Instalando as Depedências
   yarn ou npm install
